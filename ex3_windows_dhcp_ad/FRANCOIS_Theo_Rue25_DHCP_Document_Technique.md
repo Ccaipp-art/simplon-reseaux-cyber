@@ -126,8 +126,8 @@ Tous les collaborateurs de Rue25 ont été ajoutés à leur service :
 
 | Utilisateur        | Service                | Identifiant | Groupe        |
 | ------------------ | ---------------------- | ----------- | ------------- |
-| Samira Bien        | Direction (Directrice) | sbien2      | G_Direction   |
-| Sylvie Bien        | Direction              | sbien       | G_Direction   |
+| Samira Bien        | Direction (Directrice) | sbien      | G_Direction   |
+| Sylvie Bien        | Direction              | sbien2       | G_Direction   |
 | Lisa Razou         | Direction              | lrazou      | G_Direction   |
 | Alain Firmerie     | Consultants            | afirmerie   | G_Consultants |
 | Mehdi Tez          | Consultants            | mtez        | G_Consultants |
